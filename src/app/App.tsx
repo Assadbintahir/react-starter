@@ -1,8 +1,8 @@
-import React from "react";
-import Button from "./components/Button";
-import { Link } from "react-router-dom";
+import React from 'react';
+import Button from './components/Button';
+import { Link } from 'react-router-dom';
 import Routes from './routes';
-import "./App.css";
+import './App.css';
 
 function App() {
   return (

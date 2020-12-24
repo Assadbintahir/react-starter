@@ -1,4 +1,5 @@
 # react-starter
+
 Uses following:
 
 - CRA boilerplate
@@ -6,3 +7,5 @@ Uses following:
 - Source map bundle analyzer
 - react router
 - react testing library with jest
+- eslint
+- prettier

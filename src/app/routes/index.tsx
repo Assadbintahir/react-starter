@@ -1,7 +1,7 @@
-import React, { ReactElement } from "react";
-import { Redirect, Route, Switch } from "react-router-dom";
+import React, { ReactElement } from 'react';
+import { Redirect, Route, Switch } from 'react-router-dom';
 
-import { About, Home, Users } from "../containers/demo";
+import { About, Home, Users } from '../containers/demo';
 
 export const Routes = (): ReactElement => {
   return (
